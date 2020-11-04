@@ -1,6 +1,7 @@
 # Basic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
+The tasks are in the porject home page. 
 
 ## Development server
 
